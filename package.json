@@ -1,0 +1,25 @@
+{
+  "name": "kinsta-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Building...",
+    "start": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristofdombi/kinsta-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristofdombi/kinsta-page/issues"
+  },
+  "homepage": "https://github.com/kristofdombi/kinsta-page#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
